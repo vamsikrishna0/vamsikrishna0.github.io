@@ -1,6 +1,0 @@
-{
-  "name": "Vamsikrishna0.GitHub.io",
-  "tagline": "Github Pages site",
-  "body": "#Hello World!\r\n\r\nThis is the main page of my GitHub profile.\r\n\r\nI have attached links to my applications below.\r\n* [Inventory App](https://github.com/vamsikrishna0/Inventory-App) - An android app for in inventory management\r\n* [News Feed App](https://github.com/vamsikrishna0/News-Feed-App) - An Android app to get news feed from Guardian using public REST API\r\n* [Miwok Translator](https://github.com/vamsikrishna0/Miwok-Translator) - Android App to translate few words and phrases of Miwok language\r\n* [Home Safety App](https://github.com/vamsikrishna0/safetyApp) - A prototype Home Safety Python WebApp",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}

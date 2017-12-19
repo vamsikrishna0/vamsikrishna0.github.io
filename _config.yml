@@ -1,0 +1,8 @@
+title: Vamsikrishna0.GitHub.io
+description: Github Pages site
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
